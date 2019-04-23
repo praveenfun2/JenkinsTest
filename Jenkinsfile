@@ -3,6 +3,6 @@ node{
      git 'https://github.com/praveenfun2/JenkinsTest'
     }
     stage('Complie Package'){
-    
+     sh 'mvn package'
     }
 }
