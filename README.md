@@ -1,2 +1,2 @@
 # JenkinsTestProject
-test123456
+test
